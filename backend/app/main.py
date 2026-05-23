@@ -4,6 +4,8 @@ from app.database import engine, Base, SessionLocal
 from app.models import cardapio, pedido
 from app.routers import cardapio as cardapio_router
 from app.routers import reserva as reserva_router
+from app.routers import pedido as pedido_router
+
 from app.routers.reserva import limpar_reservas_expiradas
 import asyncio
 
@@ -20,6 +22,7 @@ app = FastAPI()
 ## include de rotas ## 
 app.include_router(cardapio_router.router)
 app.include_router(reserva_router.router)
+app.include_router(pedido_router.router)
 
 
 @app.get("/")
