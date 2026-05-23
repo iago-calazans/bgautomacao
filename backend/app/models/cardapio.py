@@ -1,5 +1,6 @@
-from sqlalchemy import Column, Integer, String, Boolean, Float, Text, Enum, ForeignKey
+from sqlalchemy import Column, Integer, String, Boolean, Float, Text, Enum, ForeignKey, DateTime
 from sqlalchemy.orm import relationship
+from sqlalchemy.sql import func
 from app.database import Base
 
 class Categoria(Base):
@@ -64,3 +65,11 @@ class ComboComponente(Base):
     combo_id = Column(Integer, ForeignKey("itens.id"), nullable=False)
     item_id = Column(Integer, ForeignKey("itens.id"), nullable=False)
     quantidade = Column(Float, default=1)
+
+class Reserva(Base):
+    __tablename__ = "reservas"
+    id = Column(Integer, primary_key=True, index=True)
+    token = Column(String(36), unique=True, nullable=False)
+    expira_em = Column(DateTime, nullable=False)
+    ativa = Column(Boolean, default=True)
+
