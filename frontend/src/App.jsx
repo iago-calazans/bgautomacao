@@ -1,7 +1,9 @@
+import Cardapio from './pages/Cardapio'
+
 function App() {
   return (
     <div>
-      <h1>Brasa & Galeto</h1>
+      <Cardapio />
     </div>
   )
 }
