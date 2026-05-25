@@ -1,0 +1,2480 @@
+[
+  {
+    "bairro": "Alameda dos Sonhos",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Alemanha",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "média",
+    "baseEstimativa": "Alemanha",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Amapá",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Andiroba",
+    "distanciaKmEstimada": 18.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural / periferia",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Angelim",
+    "distanciaKmEstimada": 5.0,
+    "confianca": "média",
+    "baseEstimativa": "Angelim",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Anil",
+    "distanciaKmEstimada": 6.5,
+    "confianca": "média",
+    "baseEstimativa": "Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Anjo da Guarda",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "média",
+    "baseEstimativa": "Anjo da Guarda",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Aurora",
+    "distanciaKmEstimada": 5.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Aurora",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Alto Bonito",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Alto da Alegria",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Alto do Angelim",
+    "distanciaKmEstimada": 5.0,
+    "confianca": "média",
+    "baseEstimativa": "Angelim",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Alto da Esperança",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Alto do Calhau",
+    "distanciaKmEstimada": 5.2,
+    "confianca": "média",
+    "baseEstimativa": "Calhau",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Alto do Pinho",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Alto do Pinho",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Ananandiba",
+    "distanciaKmEstimada": 20.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Apeadouro",
+    "distanciaKmEstimada": 8.0,
+    "confianca": "média",
+    "baseEstimativa": "Apeadouro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Apicum",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Areinha",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "média",
+    "baseEstimativa": "Areinha",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Argola e Tambor",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Arraial",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Bacanga",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "média",
+    "baseEstimativa": "Bacanga",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Barreto",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "média",
+    "baseEstimativa": "Barreto",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Bela Vista",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Belira",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Lira / Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Bequimão",
+    "distanciaKmEstimada": 5.0,
+    "confianca": "média",
+    "baseEstimativa": "Bequimão",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Bom Jesus",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Bom Jesus",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Bom Milagre",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Brisa do Mar",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Olho d'Água / Sol e Mar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Cajueiro",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Cajupary",
+    "distanciaKmEstimada": 24.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Cajupe",
+    "distanciaKmEstimada": 18.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Calhau",
+    "distanciaKmEstimada": 5.5,
+    "confianca": "média",
+    "baseEstimativa": "Calhau",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Camboa",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Camboa / Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Camboa dos Frades",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Camboa / Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cantinho do Céu",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Caratatiua",
+    "distanciaKmEstimada": 8.0,
+    "confianca": "média",
+    "baseEstimativa": "Caratatiua",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cassaco",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Chácara Brasil",
+    "distanciaKmEstimada": 4.4,
+    "confianca": "alta",
+    "baseEstimativa": "Chácara Brasil",
+    "observacao": "Atualizado para 4.4 km conforme rota real do Google Maps validada pelo usuário."
+  },
+  {
+    "bairro": "Cidade Nova do Gapara",
+    "distanciaKmEstimada": 15.5,
+    "confianca": "média",
+    "baseEstimativa": "Gapara",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cidade Olímpica",
+    "distanciaKmEstimada": 14.5,
+    "confianca": "média",
+    "baseEstimativa": "Cidade Olímpica",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cidade Operária",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "média",
+    "baseEstimativa": "Cidade Operária",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cinturão Verde",
+    "distanciaKmEstimada": 20.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Codozinho",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "média",
+    "baseEstimativa": "Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohab Anil I",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "Cohab/Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohab Anil II",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "Cohab/Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohab Anil III",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "Cohab/Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohab Anil IV",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "Cohab/Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohab Anil V",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "Cohab/Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohafuma",
+    "distanciaKmEstimada": 4.0,
+    "confianca": "média",
+    "baseEstimativa": "Cohafuma",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohajap",
+    "distanciaKmEstimada": 1.5,
+    "confianca": "média",
+    "baseEstimativa": "Cohajap / Parque Atenas",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohajoli",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Estimativa genérica; conferir no mapa",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Cohatrac I",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Cohatrac",
+    "observacao": "Ajustado de 5.5 km para 8.5 km para refletir a rota viária real (via Jerônimo de Albuquerque)."
+  },
+  {
+    "bairro": "Cohatrac II",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Cohatrac",
+    "observacao": "Ajustado de 5.5 km para 8.5 km para refletir a rota viária real (via Jerônimo de Albuquerque)."
+  },
+  {
+    "bairro": "Cohatrac III",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Cohatrac",
+    "observacao": "Ajustado de 5.5 km para 8.5 km para refletir a rota viária real (via Jerônimo de Albuquerque)."
+  },
+  {
+    "bairro": "Cohatrac IV",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Cohatrac",
+    "observacao": "Ajustado de 5.5 km para 8.5 km para refletir a rota viária real (via Jerônimo de Albuquerque)."
+  },
+  {
+    "bairro": "Cohama",
+    "distanciaKmEstimada": 2.5,
+    "confianca": "média",
+    "baseEstimativa": "Cohama",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cohapam",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Estimativa genérica; conferir no mapa",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Cohaserma",
+    "distanciaKmEstimada": 3.0,
+    "confianca": "média",
+    "baseEstimativa": "Cohaserma",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Coheb",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Estimativa genérica; conferir no mapa",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Alexandra Tavares",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona Cidade Olímpica / Santa Clara",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Basa",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Belo Horizonte",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Bom Clima",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto dos Ipens",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Ipase / São Cristóvão",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Dom Sebastião",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Jaguarema",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Cidade Operária / São Raimundo",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Juçara",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Cidade Operária / São Raimundo",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Penalva",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Primavera",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Promorar",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto Radional",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Radional / próximo ao Centro",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Conjunto São Raimundo",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "média",
+    "baseEstimativa": "São Raimundo",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Coreia",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Centro / Coreia",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Coroado",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "média",
+    "baseEstimativa": "Coroado",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Coroadinho",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "média",
+    "baseEstimativa": "Coroadinho",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Coqueiro",
+    "distanciaKmEstimada": 24.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Coquilho",
+    "distanciaKmEstimada": 25.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Cruzeiro do Anil",
+    "distanciaKmEstimada": 6.8,
+    "confianca": "média",
+    "baseEstimativa": "Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Cruzeiro de Santa Bárbara",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Santa Bárbara",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Cutim",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Diamante",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "média",
+    "baseEstimativa": "Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Distrito Industrial",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "média",
+    "baseEstimativa": "Distrito Industrial",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Divineia",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Divineia",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Eco Tajaçuaba",
+    "distanciaKmEstimada": 30.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Estiva",
+    "distanciaKmEstimada": 24.0,
+    "confianca": "média",
+    "baseEstimativa": "Estiva",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Fátima",
+    "distanciaKmEstimada": 9.5,
+    "confianca": "média",
+    "baseEstimativa": "Fátima",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Fabril",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "média",
+    "baseEstimativa": "Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Fé em Deus",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "média",
+    "baseEstimativa": "Fé em Deus",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Filipinho",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "média",
+    "baseEstimativa": "Filipinho",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Floresta",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Forquilha",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "Forquilha",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Fumacê",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Fumacê",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Gapara",
+    "distanciaKmEstimada": 15.5,
+    "confianca": "média",
+    "baseEstimativa": "Gapara",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Gancharia",
+    "distanciaKmEstimada": 17.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Bacanga / Itaqui",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Goiabal",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Habitacional Turu",
+    "distanciaKmEstimada": 3.2,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Habitacional Nice Lobão",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Nice Lobão",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Igaraú",
+    "distanciaKmEstimada": 28.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Ilha Bela",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Ilha da Paz",
+    "distanciaKmEstimada": 17.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Itaqui / Bacanga",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Ilhinha",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "média",
+    "baseEstimativa": "Ilhinha",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Inhaúma",
+    "distanciaKmEstimada": 28.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Ipase de baixo",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Ipase",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Ipase de cima",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Ipase",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Ipem São Cristóvão",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "São Cristóvão",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Ipem Turu",
+    "distanciaKmEstimada": 3.0,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Itapera",
+    "distanciaKmEstimada": 21.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Itapiracó",
+    "distanciaKmEstimada": 4.5,
+    "confianca": "média",
+    "baseEstimativa": "Itapiracó",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Itaqui",
+    "distanciaKmEstimada": 18.0,
+    "confianca": "média",
+    "baseEstimativa": "Itaqui",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Ivar Saldanha",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Ivar Saldanha",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jacamim",
+    "distanciaKmEstimada": 24.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jambeiro",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jaracaty",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Jaracaty",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim América",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "média",
+    "baseEstimativa": "Jardim América",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim das Margaridas",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jardim de Allah",
+    "distanciaKmEstimada": 4.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Cohama / Vinhais",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jardim Atlântico",
+    "distanciaKmEstimada": 6.5,
+    "confianca": "média",
+    "baseEstimativa": "Jardim Atlântico",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim Coelho Neto",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jardim Conceição",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jardim de Fátima",
+    "distanciaKmEstimada": 9.5,
+    "confianca": "média",
+    "baseEstimativa": "Fátima",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim Eldorado",
+    "distanciaKmEstimada": 3.5,
+    "confianca": "média",
+    "baseEstimativa": "Jardim Eldorado",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim Libanês",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Olho d'Água / Turu",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jardim Paulista",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Jardim Renascença",
+    "distanciaKmEstimada": 7.5,
+    "confianca": "média",
+    "baseEstimativa": "Renascença",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim São Cristóvão I",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "São Cristóvão",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim São Cristóvão II",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "São Cristóvão",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim São Francisco",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "São Francisco",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim São Raimundo",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "média",
+    "baseEstimativa": "São Raimundo",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jardim SM",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "João de Deus",
+    "distanciaKmEstimada": 9.5,
+    "confianca": "média",
+    "baseEstimativa": "João de Deus",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "João Paulo",
+    "distanciaKmEstimada": 8.0,
+    "confianca": "média",
+    "baseEstimativa": "João Paulo",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Jordoa",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Jordoa",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Laranjeiras",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Laranjeiras",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Liberdade",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "média",
+    "baseEstimativa": "Liberdade",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Lira",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Lira / Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Loteamento Alterosa",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Loteamento Valiam",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Macaúba",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "média",
+    "baseEstimativa": "Centro",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Madre Deus",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "média",
+    "baseEstimativa": "Madre Deus",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Mãe Chica",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Mangue Seco",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Maracanã",
+    "distanciaKmEstimada": 19.0,
+    "confianca": "média",
+    "baseEstimativa": "Maracanã",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Maranhão Novo",
+    "distanciaKmEstimada": 7.5,
+    "confianca": "média",
+    "baseEstimativa": "Maranhão Novo",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Morro do Zé Bombom",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Mata da Itapera",
+    "distanciaKmEstimada": 24.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Matinha do Rio Grande",
+    "distanciaKmEstimada": 22.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural / Rio Grande",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Mato Grosso",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Matões do Turu",
+    "distanciaKmEstimada": 4.0,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Monte Castelo",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "média",
+    "baseEstimativa": "Monte Castelo",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Nova Betel",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Novo Angelim",
+    "distanciaKmEstimada": 5.0,
+    "confianca": "média",
+    "baseEstimativa": "Angelim",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Olho d'Água",
+    "distanciaKmEstimada": 6.5,
+    "confianca": "média",
+    "baseEstimativa": "Olho d'Água",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Outeiro da Cruz",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Outeiro da Cruz",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Pão de Açúcar",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque Amazonas",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque Atenas",
+    "distanciaKmEstimada": 0.0,
+    "confianca": "alta",
+    "baseEstimativa": "Parque Atenas",
+    "observacao": "Mesmo bairro da loja."
+  },
+  {
+    "bairro": "Parque Atlântico",
+    "distanciaKmEstimada": 6.5,
+    "confianca": "média",
+    "baseEstimativa": "Jardim Atlântico / Olho d'Água",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Parque Aurora",
+    "distanciaKmEstimada": 4.5,
+    "confianca": "média",
+    "baseEstimativa": "Aurora",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Parque Brasil",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque das Palmeiras",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque dos Nobres",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque dos Sabiás",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque Guanabara",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque Nice Lobão",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Nice Lobão",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque Olinda",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque Pindorama",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "média",
+    "baseEstimativa": "Pindorama",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Parque Shalom",
+    "distanciaKmEstimada": 3.2,
+    "confianca": "média",
+    "baseEstimativa": "Parque Shalom",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Parque Smithland",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Parque Timbira",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "média",
+    "baseEstimativa": "Parque Timbira",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Parque Universitário",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Pedrinhas",
+    "distanciaKmEstimada": 17.0,
+    "confianca": "média",
+    "baseEstimativa": "Pedrinhas",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Pereira",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Piancó",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Piquizeiro",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Pirapora",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Planalto Anil I",
+    "distanciaKmEstimada": 7.2,
+    "confianca": "média",
+    "baseEstimativa": "Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Anil II",
+    "distanciaKmEstimada": 7.2,
+    "confianca": "média",
+    "baseEstimativa": "Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Anil III",
+    "distanciaKmEstimada": 7.2,
+    "confianca": "média",
+    "baseEstimativa": "Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Anil IV",
+    "distanciaKmEstimada": 7.2,
+    "confianca": "média",
+    "baseEstimativa": "Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Aurora",
+    "distanciaKmEstimada": 5.0,
+    "confianca": "média",
+    "baseEstimativa": "Aurora",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Ipase",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Ipase",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Pingão",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Planalto Turu I",
+    "distanciaKmEstimada": 3.8,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Turu II",
+    "distanciaKmEstimada": 3.8,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Turu III",
+    "distanciaKmEstimada": 3.8,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Vinhais I",
+    "distanciaKmEstimada": 4.8,
+    "confianca": "média",
+    "baseEstimativa": "Vinhais",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Planalto Vinhais II",
+    "distanciaKmEstimada": 4.8,
+    "confianca": "média",
+    "baseEstimativa": "Vinhais",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Ponta d'Areia",
+    "distanciaKmEstimada": 9.5,
+    "confianca": "média",
+    "baseEstimativa": "Ponta d'Areia",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Ponta do Farol",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "média",
+    "baseEstimativa": "Ponta do Farol",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Portal da Ilha",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Eixo MA-201 / entrada da ilha",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Porto Grande",
+    "distanciaKmEstimada": 25.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona Itaqui / rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Praia Grande",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "média",
+    "baseEstimativa": "Centro Histórico",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Primavera do Bom Jesus",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Bom Jesus",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Quebra Pote",
+    "distanciaKmEstimada": 22.0,
+    "confianca": "média",
+    "baseEstimativa": "Quebra Pote",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Quintas do Calhau",
+    "distanciaKmEstimada": 5.5,
+    "confianca": "média",
+    "baseEstimativa": "Calhau",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Quitandinha",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Recanto do Bequimão",
+    "distanciaKmEstimada": 5.3,
+    "confianca": "média",
+    "baseEstimativa": "Bequimão",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Recanto dos Nobres",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Recanto dos Pássaros",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Recanto dos Vinhais",
+    "distanciaKmEstimada": 5.2,
+    "confianca": "média",
+    "baseEstimativa": "Vinhais",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Recanto dos Signos",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Recanto Canaã",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Recanto Fialho",
+    "distanciaKmEstimada": 2.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Vicente Fialho / Parque Atenas",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Recanto Verde",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Redenção",
+    "distanciaKmEstimada": 9.5,
+    "confianca": "média",
+    "baseEstimativa": "Redenção",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Renascença",
+    "distanciaKmEstimada": 7.5,
+    "confianca": "média",
+    "baseEstimativa": "Renascença",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Residencial 2000",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Albino Soeiro",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Aroeiras",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Alexandra Tavares",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona Cidade Olímpica / Santa Clara",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Ana Jansen",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Residencial sem referência geográfica segura",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Amendoeira",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Araras",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Batatã",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial do Careca",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Dom Ricardo",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Estrela Dalva",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Esperança",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Residencial sem referência geográfica segura",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Francisco Lima",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Ilha Bela",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Ivaldo Rodrigues",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Ivan Sarney",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial João do Vale",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial José Reinaldo Tavares",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial João Alberto",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Luiz Bacelar",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Marcelo Dino",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Morada do Sol",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Nova Vida",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Nestor",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Parque das Palmeiras",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Olímpico",
+    "distanciaKmEstimada": 14.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Cidade Olímpica",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Paraíso",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Pinheiros",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Primavera",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Resende",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Ribeira",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Rio Anil",
+    "distanciaKmEstimada": 6.5,
+    "confianca": "média",
+    "baseEstimativa": "Anil",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Residencial Santos Dumont",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Santos Dumont",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Residencial Santo Antônio",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Santo Antônio",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial São Domingos",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial São Jerônimo",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial São Paulo",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Shalom",
+    "distanciaKmEstimada": 3.4,
+    "confianca": "média",
+    "baseEstimativa": "Parque Shalom",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Residencial Tiradentes",
+    "distanciaKmEstimada": 13.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Cidade Olímpica / Santa Efigênia",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Valeam",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Residencial Vinhais",
+    "distanciaKmEstimada": 4.8,
+    "confianca": "média",
+    "baseEstimativa": "Vinhais",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Retiro Natal",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Rio dos Cachorros",
+    "distanciaKmEstimada": 26.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona Itaqui / rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Rio do Meio",
+    "distanciaKmEstimada": 18.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Rio Grande",
+    "distanciaKmEstimada": 22.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural / Rio Grande",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Sá Viana",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "média",
+    "baseEstimativa": "Sá Viana",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Sacavém",
+    "distanciaKmEstimada": 11.0,
+    "confianca": "média",
+    "baseEstimativa": "Sacavém",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Salina do Sacavém",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Sacavém",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Santa Bárbara",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "média",
+    "baseEstimativa": "Santa Bárbara",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Santa Clara",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Santa Clara",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Santa Cruz",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Santa Efigênia",
+    "distanciaKmEstimada": 13.5,
+    "confianca": "média",
+    "baseEstimativa": "Santa Efigênia",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Santa Helena",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Santa Rosa",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Santana",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Santo Antônio",
+    "distanciaKmEstimada": 10.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Santo Antônio",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "São Bernardo",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "média",
+    "baseEstimativa": "São Bernardo",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "São Benedito",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Santos Dumont",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "Santos Dumont",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "São Cristóvão",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "São Cristóvão",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "São Francisco",
+    "distanciaKmEstimada": 8.5,
+    "confianca": "média",
+    "baseEstimativa": "São Francisco",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "São Joaquim",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "São Marcos",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "São Marcos",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "São Mateus",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "São Raimundo",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "média",
+    "baseEstimativa": "São Raimundo",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Sol e Mar",
+    "distanciaKmEstimada": 7.0,
+    "confianca": "média",
+    "baseEstimativa": "Olho d'Água / Sol e Mar",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Solar dos Lusitanos",
+    "distanciaKmEstimada": 4.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Turu / Cohama",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Sítio Leal",
+    "distanciaKmEstimada": 9.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Sítio Leal",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Sitinho",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tahim",
+    "distanciaKmEstimada": 30.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tajaçuaba",
+    "distanciaKmEstimada": 30.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tajipuru",
+    "distanciaKmEstimada": 32.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tauá-Mirim",
+    "distanciaKmEstimada": 32.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tibiri",
+    "distanciaKmEstimada": 22.0,
+    "confianca": "média",
+    "baseEstimativa": "Tibiri",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Tibirizinho",
+    "distanciaKmEstimada": 24.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Tibiri",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tinai",
+    "distanciaKmEstimada": 30.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tindiba",
+    "distanciaKmEstimada": 30.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona rural",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Tirirical",
+    "distanciaKmEstimada": 9.0,
+    "confianca": "média",
+    "baseEstimativa": "Tirirical",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Túnel do Sacavém",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "média",
+    "baseEstimativa": "Sacavém",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Turu",
+    "distanciaKmEstimada": 3.5,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vera Cruz",
+    "distanciaKmEstimada": 12.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila 21 de Abril",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila 25 de Maio",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Alexandra Tavares",
+    "distanciaKmEstimada": 15.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona Cidade Olímpica / Santa Clara",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Apaco",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Aparecida",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Ayrton Senna",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Ariri",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Brasil",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Cabral Miranda",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Cascavel",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Capim",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Cerâmica",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Collier",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Conceição",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Cruzado",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Cristalina",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Cutia",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Dom Luís",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila dos Frades",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Embratel",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "média",
+    "baseEstimativa": "Vila Embratel",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vila Esperança",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Eliseu Matos",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Funil",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Geniparana",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Industrial",
+    "distanciaKmEstimada": 16.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Distrito Industrial",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Isabel",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Isabel Cafeteira",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Itamar",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Janaína",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Jacu",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Luizão",
+    "distanciaKmEstimada": 7.5,
+    "confianca": "média",
+    "baseEstimativa": "Turu / Vila Luizão",
+    "observacao": "Ajustado de 4.0 km para 7.5 km para refletir a distância viária real ultrapassando o eixo central do Turu."
+  },
+  {
+    "bairro": "Vila Madureira",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Magril",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Maracujá",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Maranhão",
+    "distanciaKmEstimada": 23.0,
+    "confianca": "média",
+    "baseEstimativa": "Vila Maranhão",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vila Marinha",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Mauro Fecury I",
+    "distanciaKmEstimada": 17.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Bacanga",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Mauro Fecury II",
+    "distanciaKmEstimada": 17.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Bacanga",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Menino Jesus Praga",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Natal",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Nova",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Nova Betel",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Nova República",
+    "distanciaKmEstimada": 14.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Palmeira",
+    "distanciaKmEstimada": 10.0,
+    "confianca": "média",
+    "baseEstimativa": "Vila Palmeira",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vila Passos",
+    "distanciaKmEstimada": 11.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Centro / Vila Passos",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Portela",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Progresso",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Real",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Regina",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Rica",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Riod",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Romário",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Santa Julia",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila São João",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila São Luís",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila São Sebastião",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Sarney",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Samara",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Sete de Setembro",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Tiradentes",
+    "distanciaKmEstimada": 13.5,
+    "confianca": "baixa",
+    "baseEstimativa": "Cidade Olímpica / Santa Efigênia",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vila Vicente Fialho",
+    "distanciaKmEstimada": 1.8,
+    "confianca": "média",
+    "baseEstimativa": "Vicente Fialho",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vila Vitória",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Village dos Jasmins",
+    "distanciaKmEstimada": 13.0,
+    "confianca": "baixa",
+    "baseEstimativa": "Zona a confirmar",
+    "observacao": "Estimativa de baixa confiança; revisar com endereço real ou API de mapas."
+  },
+  {
+    "bairro": "Vinhais",
+    "distanciaKmEstimada": 4.5,
+    "confianca": "média",
+    "baseEstimativa": "Vinhais",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vinhais Velho",
+    "distanciaKmEstimada": 5.0,
+    "confianca": "média",
+    "baseEstimativa": "Vinhais",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vivendas da Cohama",
+    "distanciaKmEstimada": 2.5,
+    "confianca": "média",
+    "baseEstimativa": "Cohama",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  },
+  {
+    "bairro": "Vivendas do Turu",
+    "distanciaKmEstimada": 3.8,
+    "confianca": "média",
+    "baseEstimativa": "Turu",
+    "observacao": "Estimativa operacional por região conhecida; validar em mapa antes de cobrar automaticamente."
+  }
+]

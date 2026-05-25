@@ -36,6 +36,12 @@ export function CarrinhoProvider({ children }) {
         setCarrinho(prev => prev.filter(i => i.id_unico !== id_unico))
     }
 
+    function alterarQuantidade(id_unico, delta) {
+        setCarrinho(prev => prev
+            .map(i => i.id_unico === id_unico ? { ...i, quantidade: i.quantidade + delta } : i)
+            .filter(i => i.quantidade > 0))
+    }
+
     function limparCarrinho() {
         setCarrinho([])
         setToken(null)
@@ -47,7 +53,7 @@ export function CarrinhoProvider({ children }) {
     return (
         <CarrinhoContext.Provider value={{
             carrinho, token, setToken, expiraEm, setExpiraEm,
-            adicionarItem, removerItem, limparCarrinho, total
+            adicionarItem, removerItem, alterarQuantidade, limparCarrinho, total
         }}>
             {children}
         </CarrinhoContext.Provider>
